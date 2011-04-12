@@ -1,7 +1,7 @@
 {
   "name"          : "node-pdflatex",
   "description"   : "Very thin wrapper arround the pdflatex unix command.",
-  "homepage"      : "",
+  "homepage"      : "https://github.com/oschrenk/node-pdflatex",
   "keywords"      : ["pdf", "latex"],
   "author"        : "Oliver Schrenk <oliver.schrenk@gmail.com>",
   "contributors"  : [],
