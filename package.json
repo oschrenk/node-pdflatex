@@ -8,5 +8,5 @@
   "dependencies"  : [],
   "repository"    : {"type": "git", "url": "git://github.com/oschrenk/node-pdflatex.git"},
   "main"          : "pdflatex.js",
-  "version"       : "0.1"
+  "version"       : "0.0.1"
 }
